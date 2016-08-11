@@ -10,6 +10,8 @@
     margin-bottom: 100px;
     margin-left: 10px;
     margin-right: 10px;
-    
-    
+}
+.foto {
+    background-image: url(../image/foto.jpg);
+    padding: 100px;
 }
